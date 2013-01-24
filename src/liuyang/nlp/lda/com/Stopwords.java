@@ -442,8 +442,8 @@ public class Stopwords {
     add("selves");
     add("sensible");
     add("sent");
-    add("serious");
-    add("seriously");
+   // add("serious");
+   // add("seriously");
     add("seven");
     add("several");
     add("shall");
