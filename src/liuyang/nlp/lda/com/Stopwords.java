@@ -87,7 +87,7 @@ public class Stopwords {
     add("according");
     add("accordingly");
     add("across");
-//    add("actually");
+    add("actually");
     add("after");
     add("afterwards");
     add("again");
@@ -113,7 +113,7 @@ public class Stopwords {
     add("anyhow");
     add("anyone");
     add("anything");
-//    add("anyway");
+    add("anyway");
     add("anyways");
     add("anywhere");
     add("apart");

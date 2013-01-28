@@ -509,4 +509,13 @@ public class FileUtil {
 		inputstring = inputstring.replaceAll("(?i)ain't", "am not");
 		return inputstring;
 	}
+
+	public static void tokenizeAndLowerCase(String line, ArrayList<String> tokens) {
+		// TODO Auto-generated method stub
+		StringTokenizer strTok = new StringTokenizer(line);
+		while (strTok.hasMoreTokens()) {
+			String token = strTok.nextToken();
+			tokens.add(token.toLowerCase().trim());
+		}
+	}
 }

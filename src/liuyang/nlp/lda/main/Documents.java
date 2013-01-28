@@ -13,7 +13,7 @@ import liuyang.nlp.lda.com.Stopwords;
 /**Class for corpus which consists of M documents
  * @author yangliu
  * @blog http://blog.csdn.net/yangliuy
- * @mail yang.liu@pku.edu.cn
+ * @mail yangliuyx@gmail.com
  */
 
 public class Documents {
@@ -48,7 +48,7 @@ public class Documents {
 			ArrayList<String> words = new ArrayList<String>();
 			FileUtil.readLines(docName, docLines);
 			for(String line : docLines){
-				FileUtil.tokenize(line, words);
+				FileUtil.tokenizeAndLowerCase(line, words);
 			}
 			//Remove stop words and noise words
 			for(int i = 0; i < words.size(); i++){
@@ -78,7 +78,7 @@ public class Documents {
 		public boolean isNoiseWord(String string) {
 			// TODO Auto-generated method stub
 			string = string.toLowerCase().trim();
-			Pattern MY_PATTERN = Pattern.compile(".*[a-zA-Z0-9]+.*");
+			Pattern MY_PATTERN = Pattern.compile(".*[a-zA-Z]+.*");
 			Matcher m = MY_PATTERN.matcher(string);
 			// filter @xxx and URL
 			if(string.matches(".*www\\..*") || string.matches(".*\\.com.*") || 
