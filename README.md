@@ -9,4 +9,4 @@ yangliuy' implementation for Gibbs Sampling of LDA is free software; you can red
 
 Author's technical blog : http://blog.csdn.net/yangliuy
 
-For more information for LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8457329
+For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8457329
