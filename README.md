@@ -1,7 +1,7 @@
 LDAGibbsSampling
 ================
 
-This is yangliuy's implementation for Gibbs Sampling of LDA. The test data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Please feel free to contact me at yangliuyx@gmail.com if you have any questions.
+This is yangliuy's implementation for Gibbs Sampling of LDA. The test data set is Newsgroup-18828, which is included in the project. You can test other data sets with it.
 
 You can import the project into Eclipse and run LdaGibbsSampling.java to start it without any configuration. The original documents and sample output files have been included.
 
