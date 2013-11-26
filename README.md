@@ -7,6 +7,10 @@ yangliuy' implementation for Gibbs Sampling of LDA is free software; you can red
 
 You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
-Author's technical blog : http://blog.csdn.net/yangliuy
+Author's technical blog : http://blog.csdn.net/
 
-For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
+Author's homepage:https://sites.google.com/site/liuyang198908/home
+
+For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/
+
+
