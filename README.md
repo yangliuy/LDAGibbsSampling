@@ -21,7 +21,7 @@ Brief Introduction
 
    Author's homepage:https://sites.google.com/site/liuyang198908/home
 
-   For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/
+   For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
 
 3. This is a initial implementation for the Topic Expertise Model which is proposed in the following paper:
 
