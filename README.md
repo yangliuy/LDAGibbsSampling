@@ -15,7 +15,7 @@ LDAGibbsSampling
 
     Liu Yang, Minghui Qiu, Swapna  Gottipati, Feida Zhu, Jing Jiang, Huiping Sun and Zhong Chen. CQARank: Jointly Model Topics and Expertise in Community Question Answering. In Proceedings of the 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013).
 
-    If you use this model implementation, please consider to cite this paper. Thank you.
+    If you use this model implementation, please consider to cite this paper.
 
 5. We will also relase more open source code for topic models in https://github.com/yangliuy.
 
