@@ -19,7 +19,7 @@ Brief Introduction
 
 2. Author's technical blog : http://blog.csdn.net/yangliuy
 
-   Author's homepage:https://sites.google.com/site/liuyang198908/home
+   Author's homepage:https://sites.google.com/site/lyangwww/
 
    For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
 
