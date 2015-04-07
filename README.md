@@ -11,7 +11,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Feel free to contact the following people if you find any
 problems in the package.
-yang.liu@pku.edu.cn * */
+lyang@cs.umass.edu * */
 
 Brief Introduction
 ===================
@@ -19,7 +19,7 @@ Brief Introduction
 
 2. Author's technical blog : http://blog.csdn.net/yangliuy
 
-   Author's homepage:https://sites.google.com/site/lyangwww/
+   Author's homepage:https://people.cs.umass.edu/~lyang
 
    For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
 
@@ -27,7 +27,7 @@ Brief Introduction
 
     Liu Yang, Minghui Qiu, Swapna  Gottipati, Feida Zhu, Jing Jiang, Huiping Sun and Zhong Chen. CQARank: Jointly Model Topics and Expertise in Community Question Answering. In Proceedings of the 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013).  (http://dl.acm.org/citation.cfm?id=2505720)
 
-    If you use this model implementation, please consider to cite this paper.
+    If you use this model implementation, please cite this paper.
 
 4. We will also release more open source code for topic models in https://github.com/yangliuy.
 
