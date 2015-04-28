@@ -1,19 +1,12 @@
 package liuyang.nlp.lda.script;
 
 /**Data preprocess for documents
- * Mainly do tokenization by Stanford tokenizer
+ * Should implement based on the format of the input textual data.
+ * This class is not needed for the current version.
  * @author yangliu
  * @blog http://blog.csdn.net/yangliuy
  * @mail yangliuyx@gmail.com
  */
 public class DataPreprocess {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//Should implement based on the format of the input textual data.
-	}
-
+	
 }
