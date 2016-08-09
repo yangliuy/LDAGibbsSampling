@@ -23,7 +23,7 @@ Brief Introduction
 
    For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
 
-3. This is a initial implementation for the Topic Expertise Model which is proposed in the following paper:
+3. This is an initial implementation for the Topic Expertise Model which is proposed in the following paper:
 
     Liu Yang, Minghui Qiu, Swapna  Gottipati, Feida Zhu, Jing Jiang, Huiping Sun and Zhong Chen. CQARank: Jointly Model Topics and Expertise in Community Question Answering. In Proceedings of the 22nd ACM International Conference on Information and Knowledge Management (CIKM 2013).  (http://dl.acm.org/citation.cfm?id=2505720)
 
