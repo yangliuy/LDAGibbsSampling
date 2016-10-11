@@ -11,7 +11,8 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Feel free to contact the following people if you find any
 problems in the package.
-lyang@cs.umass.edu * */
+lyang@cs.umass.edu 
+Updated in Oct. 10, 2016. * */
 
 Brief Introduction
 =============================
