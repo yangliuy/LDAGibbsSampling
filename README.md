@@ -15,13 +15,20 @@ lyang@cs.umass.edu * */
 
 Brief Introduction
 ===================
-1. This is Liu Yang's implementation for Gibbs Sampling of LDA. The test data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Just import the project into Eclipse and run LdaGibbsSampling.java to start it without any configuration. The original documents and sample output files have been included.
+1. This is Liu Yang's implementation for Gibbs Sampling of LDA. The data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Just import the project into Eclipse and run LdaGibbsSampling.java to start it without any configuration. The sample original documents and sample output files have been included. To download the whole Newsgroup-18828 data set, you can refer to http://qwone.com/~jason/20Newsgroups/ . 
 
-2. Author's technical blog : http://blog.csdn.net/yangliuy
+2. The format of the output files
+   lda_n.params: the hyper-parameters of the LDA model
+   lda_n.phi: a K * V matrix, which is the leant topic word distribution.
+   lda_n.tassign: the topic assignments of each word in each document when there are n iterations.
+   lda_n.theta: a M * K matrix, which is the learnt document topic distribution.
+   lda_n.twords: the top topic words with their probabilies under each topic.
 
-   Author's homepage:https://people.cs.umass.edu/~lyang
+2. The author's technical blog : http://blog.csdn.net/yangliuy
 
-   For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599
+   The author's homepage:https://people.cs.umass.edu/~lyang
+
+   For more information of LDA and Gibbs Sampling: http://blog.csdn.net/yangliuy/article/details/8302599 (a technical blog on LDA and Gibbs Sampling in Chinese.)
 
 3. This is an initial implementation for the Topic Expertise Model which is proposed in the following paper:
 
