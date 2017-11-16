@@ -17,7 +17,7 @@ Updated in Oct. 10, 2016. * */
 
 Brief Introduction
 =============================
-1. This is Liu Yang's implementation for Gibbs Sampling of LDA. The data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Just import the project into Eclipse and run LdaGibbsSampling.java to start it without any configuration. The sample original documents and sample output files have been included. To download the whole Newsgroup-18828 data set, you can refer to http://qwone.com/~jason/20Newsgroups/ . 
+1. This is an open source implementation for Gibbs Sampling of LDA. The data set is Newsgroup-18828, which is included in the project. You can test other data sets with it. Just import the project into Eclipse and run LdaGibbsSampling.java to start it without any configuration. The sample original documents and sample output files have been included. To download the whole Newsgroup-18828 data set, you can refer to http://qwone.com/~jason/20Newsgroups/ .
 
 
 2. The format of the output files
